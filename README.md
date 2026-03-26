@@ -1,6 +1,7 @@
 # Simple Notepad
 
 A lightweight and efficient text editor developed using C# and Windows Forms. This application provides essential text editing functionalities and file management through a clean and intuitive user interface.
+<img width="1366" height="768" alt="Screenshot (276)" src="https://github.com/user-attachments/assets/e8326aa2-62d3-48ce-8be6-60c25361d0be" />
 
 ---
 
